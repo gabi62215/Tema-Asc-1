@@ -126,6 +126,8 @@ class Marketplace:
         :returns True or False. If the caller receives False, it should wait and then try again.
         """
         self.logger.info("in publish producer_id = %s and product is %s",producer_id,product)
+
+        #add product using the Buffer class
         result = self.buffers[producer_id].add(product)
         
         self.logger.info("publish returns %s",result)
@@ -186,9 +188,9 @@ class Marketplace:
         :param product: the product to remove from cart
         """
 
-        # extract id from product in cart and add it back to producer buffer
         self.logger.info("in remove_from_cart cart_id = %s and product = %s",cart_id,product)
 
+        # extract id from product in cart and add it back to producer buffer
         aux = self.carts[cart_id].remove(product)
         self.buffers[aux[1]].add(product)
 
@@ -204,6 +206,7 @@ class Marketplace:
         """
         self.logger.info("in place_order cart_id = %s",cart_id)
         
+        #get list of products using Cart class
         result = self.carts[cart_id].buy()
         self.logger.info("place_order returns %s",result)
 

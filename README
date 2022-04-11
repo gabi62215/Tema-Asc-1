@@ -37,4 +37,7 @@ Atunci cand un producator se inregistreaza i se asociaza un buffer in
 dictionarul buffers,folosindu-se id-ul primit ca si cheie.Asemanator exista
 si un dictionar de cart-uri.
 
+In fiecare functie din marketplace se adauga log-uri cu intrariile si iesiriile
+functiilor,dar nu am implementat partea de unittesting.
+
 Link git: https://github.com/gabi62215/Tema-Asc-1

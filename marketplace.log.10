@@ -1,0 +1,1099 @@
+[2022-04-11T19:17:53] INFO in publish producer_id = 29 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 29 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 383 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 289 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 375 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 235 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 43 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 27 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 46 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 476 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 480 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 118 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 165 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 26 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 26 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 0 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 423 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 205 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 25 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 25 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 389 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 59 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 37 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 411 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 5 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 5 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 5 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 117 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 451 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 421 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 18 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 338 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 444 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 198 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 9 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 138 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 490 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 44 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 44 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 44 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 324 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 324 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 324 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 307 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 51 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 32 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 352 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 22 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 41 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 438 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 382 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 382 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 382 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 278 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 383 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 15 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 15 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 495 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 45 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 28 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 27 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO in publish producer_id = 32 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 43 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 375 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 476 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 4 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 4 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 4 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 226 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 42 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 389 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 18 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 18 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 31 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 31 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 31 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 37 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 122 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 471 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 74 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 118 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 59 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 91 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 140 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 240 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 39 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 7 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 27 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 235 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 338 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 432 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 22 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 22 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 22 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 383 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 45 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 20 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 138 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 352 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 17 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 17 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 423 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 490 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 43 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 117 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 35 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 35 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 289 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 0 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 0 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 382 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 278 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 33 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 25 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 25 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 394 and product = Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 389 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 394
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')]
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 451 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO new_cart returns 513
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 513 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 513 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 513 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 513 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 513
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong')]
+[2022-04-11T19:17:53] INFO in publish producer_id = 41 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 20 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 20 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 307 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 476 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 34 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 34 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 34 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 495 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 375 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 29 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 29 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 29 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 9 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 475 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 475
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White')]
+[2022-04-11T19:17:53] INFO new_cart returns 514
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 514 and product = Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 514
+[2022-04-11T19:17:53] INFO place_order returns [Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), Tea(name='Pai Mu Tan', price=9, type='White'), Tea(name='Pai Mu Tan', price=9, type='White')]
+[2022-04-11T19:17:53] INFO new_cart returns 515
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 515 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 515 and product = Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 515 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 515 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO in place_order cart_id = 515
+[2022-04-11T19:17:53] INFO place_order returns [Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')]
+[2022-04-11T19:17:53] INFO new_cart returns 516
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 516 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 516
+[2022-04-11T19:17:53] INFO in publish producer_id = 46 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Tea(name='English Breakfast', price=2, type='Black')]
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 198 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 198 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 42 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 438 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 444 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 37 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 480 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 59 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 13 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 17 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 411 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 10 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 34 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 324 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 31 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 31 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 118 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 5 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 165 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 383 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 338 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 27 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 26 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 26 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 205 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 205 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 205 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 22 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 43 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 352 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 22 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 389 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 421 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 471 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 38 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 12 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 28 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 51 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 138 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 44 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 44 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 235 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 476 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 490 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 2 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 32 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 74 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 3 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 382 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 278 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 91 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 375 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 37 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 423 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 15 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 15 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 14 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 400 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 400
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')]
+[2022-04-11T19:17:53] INFO new_cart returns 517
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 517 and product = Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in place_order cart_id = 517
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')]
+[2022-04-11T19:17:53] INFO new_cart returns 518
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 518 and product = Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO in place_order cart_id = 518
+[2022-04-11T19:17:53] INFO place_order returns [Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')]
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 41 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 117 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 117 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 226 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 495 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 7 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 59 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 27 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 27 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 27 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 4 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 251 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 251
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Tea(name='Jasmine', price=6, type='Green'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White')]
+[2022-04-11T19:17:53] INFO new_cart returns 519
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 519 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 519 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 519 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 519 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 519 and product = Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 519
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black'), Tea(name='English Breakfast', price=2, type='Black')]
+[2022-04-11T19:17:53] INFO new_cart returns 520
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO in remove_from_cart cart_id = 520 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO remove_from_cart returns Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO in place_order cart_id = 520
+[2022-04-11T19:17:53] INFO place_order returns [Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Vietnam Oolong', price=10, type='Oolong'), Tea(name='Pai Mu Tan', price=9, type='White'), Tea(name='Pai Mu Tan', price=9, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White'), Tea(name='White Peach', price=5, type='White')]
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 170 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 17 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 17 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 383 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 307 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 20 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 20 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 451 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 43 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 389 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 122 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO in publish producer_id = 47 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 118 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 338 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 18 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 39 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 240 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 438 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 11 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 40 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 45 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 45 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 8 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 140 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 289 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 352 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 24 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 198 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 432 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 6 and product is Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 21 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 35 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 476 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 15 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 1 and product is Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 444 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 36 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 222 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 16 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 138 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 37 and product is Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 30 and product is Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 19 and product is Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 48 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 33 and product is Tea(name='Pai Mu Tan', price=9, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 25 and product is Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 49 and product is Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 46 and product is Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO publish returns False
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in publish producer_id = 23 and product is Tea(name='English Breakfast', price=2, type='Black')
+[2022-04-11T19:17:53] INFO publish returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='White Peach', price=5, type='White')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 375 and product = Tea(name='Jasmine', price=6, type='Green')
+[2022-04-11T19:17:53] INFO add_to_cart returns False
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in add_to_cart cart_id = 313 and product = Tea(name='Vietnam Oolong', price=10, type='Oolong')
+[2022-04-11T19:17:53] INFO add_to_cart returns True
+[2022-04-11T19:17:53] INFO in place_order cart_id = 313
