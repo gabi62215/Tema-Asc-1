@@ -1,0 +1,40 @@
+Tema 1 Arhitectura sistemelor de calcul
+
+Organizare
+
+Am mai folosit 2 clase pentru rezolvare:Cart si Buffer
+
+Buffer este o lista pe care se pot face operatii de add si remove.Lista are
+un size care nu trebuie depasit,caz in care operatia de add esueaza.
+De asemenea, operatia de remove poate esua daca produsul dorit nu exista
+in lista
+
+Cart reprezinta o lista de tupluri de tipul (produs,id_producer),id_producer
+este retinut pentru a putea adauga produsul in buffer-ul producatorului
+corespunzator din marketplace.Se pot efectua operatii de add si remove asupra
+listei cat si de creare a unei liste care contine doar 
+produsele(fara producer_id).
+
+Producer se inregistreaza in market cu un id unic pe care il foloseste
+pentru a adauga produse intr-un buffer asociat. In caz buffer-ul asociat
+se umple trebuie sa astepte un timp specificat la input pentru a putea
+adauga din nou produse. El adauga produse la infinit.
+
+Consumer primeste pentru fiecare cart un id unic, care se foloseste
+pentru a adauga si scoate produse din cosul respectiv.La sfarsit,cosul
+se goleste si este returnata o lista de produse,care este afisata la
+stdout.
+
+Implementare
+
+Pentru generarea de id-uri unice pentru cart-uri si producatori am
+folosit 2 variabile(available_id_prod,available_id_cart).Acestea se
+incrementeaza de fiecare data cand functiile register_producer si new_cart
+sunt apelate,cu ajutorul a 2 mutex-uri(mutex_prod,mutex_cart),garantand
+astfel id-uri unice si acces-ul de catre un singur thread la un moment de timp.
+
+Atunci cand un producator se inregistreaza i se asociaza un buffer in
+dictionarul buffers,folosindu-se id-ul primit ca si cheie.Asemanator exista
+si un dictionar de cart-uri.
+
+Link git: https://github.com/gabi62215/Tema-Asc-1
